@@ -39,3 +39,20 @@ body {
     font-size: small;
     color: rgb(154, 154, 154);
 }
+
+#Tim1 {
+    width: 350px; 
+}
+
+#Tim2 {
+    width: 300px;
+}
+
+.descrizione_foto {
+    font-size: small;
+}
+
+#highlight {
+    font-weight: 300;
+    background-color: yellow;
+}
