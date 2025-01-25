@@ -56,3 +56,35 @@ body {
     font-weight: 300;
     background-color: yellow;
 }
+
+#tabella {
+    padding: 10px;
+}
+
+.colonna_media {
+    width: 25%;
+}
+
+.colonna_grande {
+    width: 50%;
+}
+
+.colonna_media,
+.colonna_grande {
+    text-align: left;
+    background-color: rgb(121, 168, 255);
+    color: white;
+}
+
+.riga_1 {
+    background-color: rgb(203, 201, 201);
+}
+
+#footer {
+    text-align: center;
+    font-size: small;
+    color: white;
+    background-color: rgb(58, 58, 128);
+    height: 15px;
+    padding: 15px;
+}
